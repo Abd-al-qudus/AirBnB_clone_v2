@@ -1,7 +1,7 @@
 """
     A new storage engine for mysqldb
 """
-from models.base_model import Base
+from models.base_model import Base, BaseModel
 from sqlalchemy import create_engine
 from sqlalchemy.orm import sessionmaker, scoped_session
 from os import environ as env
