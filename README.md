@@ -53,13 +53,3 @@ Ex:
 `help` or `help <command>`
 Ex:
 `help` or `help quit`
-
-Additionally, the console supports `<class name>.<command>(<parameters>)` syntax.
-Ex:
-`City.show(my_city_id)`
-
-### Author
-Cameron Eng <cameron.eng@holbertonschool.com> <br/>
-Rui Feng <394@holbertonschool.com> <br/>
-Miranda Evans <miranda.r.evans@gmail.com> <br/>
-Kevin Yook <kevin.yook@holbertonschool.com> <br/>
