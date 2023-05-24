@@ -1,15 +1,15 @@
-footer {
-  position: fixed;
-  bottom: 0;
-  height:60px;
-  width:100%;
-  border-top: 1px solid #CCCCCC;
-  background-color: white;
-}
+@charset "UTF-8";
+/** Holberton Practice Styles
+ * ----- Footer
+ */
 
-span.footer_placeholder {
-  top: 50%;
-  left: 50%;
-  position: absolute;
-  transform: translate(-50%,-50%);
+footer {
+	background: #FFFFFF;
+	height: 60px;
+	line-height: 60px;
+	width: 100%;
+	bottom: 0px;
+	position: relative;
+	text-align: center;
+	border-top: 1px solid #CCCCCC;
 }
